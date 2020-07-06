@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "OndeAlmoco"
+    }
+  },
+  "defaultProject": "OndeAlmoco",
+  "cli": {
+    "analytics": "1456afe5-abbc-43aa-a8c8-17977e732d9c"
+  }
 }
